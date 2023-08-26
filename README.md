@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hello!
 
-<!--
-**jaytc-design/jaytc-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I am sleepcodes or 41taccount on Roblox!
 
-Here are some ideas to get you started:
+* I am currently 15 years old!
+* I've been coding since I was 7
+* I plan on studying Computer Science and Business in College
+* I want to work a computer science job, work as an executive in business
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ## Languages I know well:
+  * English
+  * Spanish
+  * Lua
+  * Python
+ 
+  ## Languages I've experience with or tampered with (most to least):
+  JS, Java, C++, HTML, XML, *Scratch*, CSS, SQL, PHP, Swift
+ 
+  ## Languages I've had to read (to understand functionality):
+  Rust, C#, C, WASM, SMALI, Assembly, Binary
+ 
+  ## Languages I want to learn (better):
+  Rust, Go, C++, JS, XML, Java (for school)
